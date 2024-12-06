@@ -1,0 +1,44 @@
+{
+    "sgl_count": "3",
+    "twin_count": "3",
+    "days": "7",
+    "sgl_price": "100",
+    "twin_price": "200",
+    "selected_services": [
+        {
+            "name": "Екскурсія по місту",
+            "type": "за годину",
+            "price": 50,
+            "per_group": "за групу",
+            "quantity": 1
+        },
+        {
+            "name": "Сніданок",
+            "type": "за день",
+            "price": 10,
+            "per_group": "на людину",
+            "quantity": 7
+        },
+        {
+            "name": "Трансфер з аеропорту",
+            "type": "за годину",
+            "price": 30,
+            "per_group": "за групу",
+            "quantity": 1
+        },
+        {
+            "name": "Вечеря",
+            "type": "за день",
+            "price": 25,
+            "per_group": "на людину",
+            "quantity": 7
+        },
+        {
+            "name": "Послуги гіда",
+            "type": "за день",
+            "price": 100,
+            "per_group": "за групу",
+            "quantity": 1
+        }
+    ]
+}
